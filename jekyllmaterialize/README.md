@@ -4,7 +4,7 @@
 
 The theme is a fork of the [minima][1]
 
-![minima theme preview](/screenshot.png)
+![minima theme preview](https:www.panoramedia.eu/jekyllmaterialize/screenshot.png)
 
 
 # License
